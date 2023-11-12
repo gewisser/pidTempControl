@@ -3,6 +3,7 @@
 
 https://www.youtube.com/watch?v=YvrPZKqlK5E
 
+<img src="https://github.com/gewisser/pidTempControl/assets/5417292/e83e9308-b36d-434f-b0c8-93762660e88c" width="300" height="auto">
 
 Arduino Pro Micro ATmega32U4:
 ```
